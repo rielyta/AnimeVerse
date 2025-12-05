@@ -99,29 +99,36 @@ Dibangun dengan **Flutter** dan terintegrasi dengan layanan **Firebase**, AnimeV
 
 ## 📸 Screenshot Aplikasi
 
-### 1. Halaman Sign In
+### 1. Splash Screen
+<img width="208" height="462" alt="Screenshot_20251205_200125" src="https://github.com/user-attachments/assets/8dd5a119-5321-41f9-82a8-7c7d31383be6" />
+
+### 2. Halaman Sign In
 <img width="208" height="462" alt="Screenshot_20251205_201352" src="https://github.com/user-attachments/assets/446fc9fc-c031-4021-b484-91160c33b5a1" />
 
 **Fitur**: Email/password validation, forgot password, social login, error handling
 
-### 2. Halaman Sign Up
+### 3. Halaman Sign Up
+<img width="208" height="462" alt="Screenshot_20251205_201402" src="https://github.com/user-attachments/assets/4c972949-d355-4ad3-8a6c-88ba946af5cf" />
 
 **Fitur**: Input validation, password strength, social registration
 
-### 3. Halaman Beranda (Home Screen)
-
+### 4. Halaman Beranda (Home Screen)
+<img width="208" height="462" alt="Screenshot_20251205_201537" src="https://github.com/user-attachments/assets/b231b0cc-44d6-43e7-9317-140950e870be" />
 
 **Fitur**: Search, genre filter, infinite scroll, pull-to-refresh, pagination
 
-### 4. Halaman Detail Anime (Detail Screen)
+### 5. Halaman Detail Anime (Detail Screen)
+<img width="208" height="462" alt="Screenshot_20251205_224640" src="https://github.com/user-attachments/assets/2b79118a-4f26-4886-b470-2bd0134f2ef2" />
 
 **Fitur**: Informasi lengkap, poster berkualitas tinggi, favorite toggle, responsive
 
-### 5. Halaman Favorit (Favorite Screen)
+### 6. Halaman Favorit (Favorite Screen)
+<img width="208" height="462" alt="Screenshot_20251205_201558" src="https://github.com/user-attachments/assets/60a3a772-89b5-46b2-a204-b3a16dc29336" />
 
 **Fitur**: Search favorit, list interaktif, remove button, empty state
 
-### 6. Halaman Profil (Profile Screen)
+### 7. Halaman Profil (Profile Screen)
+<img width="208" height="462" alt="Screenshot_20251205_201634" src="https://github.com/user-attachments/assets/e96ce676-e373-4605-9d8f-a67c423c14eb" />
 
 **Fitur**: User info, avatar, password change, logout, app info
 
