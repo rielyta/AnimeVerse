@@ -149,8 +149,8 @@ Dibangun dengan **Flutter** dan terintegrasi dengan layanan **Firebase**, AnimeV
 - **Build System**: Gradle (Android), Xcode (iOS)
 
 ### Key Technologies
-**UI Framework** Flutter 
-**Language** Dart 
+ **UI Framework** Flutter 
+ **Language** Dart 
  **State Management** Provider 
  **Navigation** GoRouter  
  **HTTP Client** Dio  
@@ -160,10 +160,8 @@ Dibangun dengan **Flutter** dan terintegrasi dengan layanan **Firebase**, AnimeV
  **Image Caching** cached_network_image 
  **SVG Support** flutter_svg 
  **Image Picker** image_picker 
-=
 
 ## 💻 Instalasi & Setup
-
 ### Prasyarat
 - **Flutter SDK**: Versi 3.0 atau lebih tinggi
 - **Dart SDK**: Versi 3.0 atau lebih tinggi (included dengan Flutter)
