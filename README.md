@@ -395,5 +395,5 @@ image_picker: ^1.x            # Image picker
 **GitHub**: [github.com/rielyta/Anime-Verse](https://github.com/rielyta/AnimeVerse)
 
 ### Link Demo
-https://drive.google.com/drive/folders/1ixHtgReDo3UMGfJuEuhL5xRE9RMfrxK2
+https://drive.google.com/file/d/14hZeAzXEIFi6LD7lng7QalQGlrJkCmFf/view?usp=drivesdk
 
