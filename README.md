@@ -5,8 +5,8 @@ Aplikasi mobile Flutter yang komprehensif untuk menemukan, menilai, dan mengelol
 ## 👤 Identitas Mahasiswa
 
 **Nama** : Desi Maria Elita Silalahi
-** NIM ** : 231401044
-** Lab ** : Pemrograman Mobile 3
+**NIM** : 231401044
+**Lab** : Pemrograman Mobile 3
 
 ## 📱 Deskripsi Proyek
 
@@ -395,5 +395,5 @@ image_picker: ^1.x            # Image picker
 **GitHub**: [github.com/rielyta/Anime-Verse](https://github.com/rielyta/AnimeVerse)
 
 ### Link Demo
-https://drive.google.com/file/d/14hZeAzXEIFi6LD7lng7QalQGlrJkCmFf/view?usp=drivesdk
+**Video**: https://drive.google.com/file/d/14hZeAzXEIFi6LD7lng7QalQGlrJkCmFf/view?usp=drivesdk
 
