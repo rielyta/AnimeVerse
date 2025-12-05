@@ -100,7 +100,7 @@ Dibangun dengan **Flutter** dan terintegrasi dengan layanan **Firebase**, AnimeV
 ## 📸 Screenshot Aplikasi
 
 ### 1. Halaman Sign In
-<img width="108" height="240" alt="Screenshot_20251205_201352" src="https://github.com/user-attachments/assets/446fc9fc-c031-4021-b484-91160c33b5a1" />
+<img width="208" height="462" alt="Screenshot_20251205_201352" src="https://github.com/user-attachments/assets/446fc9fc-c031-4021-b484-91160c33b5a1" />
 
 **Fitur**: Email/password validation, forgot password, social login, error handling
 
